@@ -61,4 +61,4 @@ class Torus2dNetwork():
 
 if __name__ == "__main__":
     setLogLevel('info')
-    Torus1dNetwork()
+    Torus2dNetwork()
